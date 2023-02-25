@@ -1,0 +1,20 @@
+body {
+  color: #f7f7f7;
+}
+
+.jumbotron {
+  background-image: url("../images/nasa.jpg");
+  background-size: 100% 100%;
+  text-align: center;
+}
+
+.article-title, .article-p {
+  padding: 20px;
+}
+form {
+  padding: 5px;
+}
+
+#filter-btn {
+  width: 100%;
+}
